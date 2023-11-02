@@ -1,3 +1,6 @@
 *.doc #ignore all doc files
 test1.txt #new file for ignore
 test2.txt
+
+test3.txt
+#ignore test3
